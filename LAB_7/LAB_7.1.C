@@ -30,4 +30,3 @@ void loop() {
       digitalWrite(pin, LOW);
   }
 }
- 
